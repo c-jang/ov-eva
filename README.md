@@ -3,9 +3,9 @@
 [![Paper Status](https://img.shields.io/badge/Paper-Accepted-brightgreen)]([Link to Paper])
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This is the official PyTorch implementation of the paper: **"Boosting the Performance of Image Restoration Models through Training with Deep-Feature Auxiliary Guidance"**.  
-Authors: Cheolhun Jang, Daehyun JI, and Nam Ik Cho  
-Accepted at IEEE Access
+This is the official PyTorch implementation of the paper: **"Robust Vision-Language Alignment Using Multi-Modal Large Language Models for Open-Vocabulary Semantic Segmentation"**.  
+Authors: Cheolhun Jang, Seok Jun Youn, Issac Kang, Junhyeong Kwon, Daehyun JI, Jun Won Choi and Nam Ik Cho  
+Accepted at IEEE Access.
 
 > **🚧 Code Coming Soon 🚧**
 >
